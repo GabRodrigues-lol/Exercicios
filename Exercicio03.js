@@ -1,3 +1,4 @@
+// Gabriel Rodrigues de Santana
 class Node {
     constructor(value) {
       this.value = value;
