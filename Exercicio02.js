@@ -1,3 +1,4 @@
+// Gabriel Rodrigues de Santana
 // Definição de nó da árvore
 class No {
     constructor(valor, esquerda = null, direita = null) {

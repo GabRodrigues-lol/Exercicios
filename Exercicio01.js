@@ -1,3 +1,4 @@
+// Gabriel Rodrigues de Santana
 // 1. Definindo a estrutura No com valor e filhos
 class No {
     constructor(valor) {
